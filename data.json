@@ -1,0 +1,116 @@
+cartItems: [
+    {
+      _id: '5fb3794f5225b630baf8494f',
+      title: 'Гибкая черепица Технониколь Shinglas фламенко, толедо (3м2)',
+      article: 80235,
+      cost: 540,
+      club_cost: 486,
+      unit: 'за м2',
+      options: [
+        {
+          'Количество слоев': 'Однослойная'
+        },
+        {
+          'Коллекция': 'Фламенко'
+        },
+        {
+          'Серия': 'Классик'
+        },
+        {
+          'Цвет': 'Толедо'
+        },
+        {
+          'Форма нарезки': 'Трио'
+        },
+        {
+          'Высота': '317 мм'
+        },
+        {
+          'Вес': '32,7 кг'
+        },
+        {
+          'Длина': '1000 мм'
+        },
+        {
+          'Толщина': '3 мм'
+        }
+      ],
+      images: [
+        '783ad315-712b-4f5b-adde-ab8e21950905.jpg',
+        '98602ebe-496d-4fe6-8b72-2d63abb001f8.jpg'
+      ],
+      path: '/uploads/catalog/5f85ba274a9a5d34e0a45fed/categories/5fb3765e5225b630baf846ac/5fb3794f5225b630baf8494f/',
+      full_cost: 1620,
+      full_club_cost: 1458,
+      group_id: '611243c0a089da13d83be1ec',
+      quantity: 1
+    },
+    {
+      images: [
+        '6c39c7fb-a927-41a6-a3d4-daf0c0b59f8e.jpg',
+        '71cc0740-fbf4-444b-ad78-0b1cf49265f1.jpg'
+      ],
+      options: [
+        {
+          'Производитель': 'Acoustic Group'
+        },
+        {
+          'Длина': '1200 мм'
+        },
+        {
+          'Ширина': '600 мм'
+        },
+        {
+          'Толщина': '40 мм'
+        },
+        {
+          'Вес': '19 кг'
+        }
+      ],
+      _id: '6062c4c7611bf755261f944a',
+      title: 'Сэндвич-панель ЗИПС-Вектор, с комплектом крепежа (600х1200х40мм)',
+      unit: 'за м2',
+      cost: 2263.89,
+      club_cost: 0,
+      full_cost: 1630,
+      full_club_cost: 0,
+      article: 121031,
+      path: '/uploads/catalog/5f85ba274a9a5d34e0a45fed/categories/6048ca6363778447723df532/6062c4c7611bf755261f944a/',
+      minq: 0,
+      quantity: 1
+    },
+    {
+      images: [
+        '6c39c7fb-a927-41a6-a3d4-daf0c0b59f8e.jpg',
+        '71cc0740-fbf4-444b-ad78-0b1cf49265f1.jpg'
+      ],
+      options: [
+        {
+          'Производитель': 'Acoustic Group'
+        },
+        {
+          'Длина': '1200 мм'
+        },
+        {
+          'Ширина': '600 мм'
+        },
+        {
+          'Толщина': '40 мм'
+        },
+        {
+          'Вес': '19 кг'
+        }
+      ],
+      _id: '6062c4c7611bf755261f944a',
+      title: 'Сэндвич-панель ЗИПС-Вектор, с комплектом крепежа (600х1200х40мм)',
+      unit: 'за м2',
+      cost: 2263.89,
+      club_cost: 0,
+      full_cost: 1630,
+      full_club_cost: 0,
+      article: 121031,
+      path: '/uploads/catalog/5f85ba274a9a5d34e0a45fed/categories/6048ca6363778447723df532/6062c4c7611bf755261f944a/',
+      minq: 0,
+      quantity: 1
+    }
+  ]
